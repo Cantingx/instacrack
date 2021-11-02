@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/passwords.lsn" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LICENSE" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/install.sh" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/instashell.sh" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="20NZxSk0wqB1tPh0irEyTZ9eUXZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />

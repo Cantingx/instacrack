@@ -1,8 +1,8 @@
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instashell
-cd instashell
+git clone https://github.com/Cantingx/instacrack
+cd instacrack
 chmod +x instashell.sh
 service tor start
 sudo ./instashell.sh
